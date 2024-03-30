@@ -2,8 +2,8 @@
 
 
 
-Developed by sarina emadi
+1. Developed by sarina emadi
 
-💻Technologies Used - Html , Css , Javascript
+2. 💻Technologies Used - Html , Css , Javascript
 
-Responsive
+3. Responsive
